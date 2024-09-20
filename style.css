@@ -4,11 +4,8 @@
     margin: 0px;
     font-family: Arial, Helvetica, sans-serif;
 }
-.nav .ol{
-    float: left;
-    display: block;
-    text-align: center;
-    justify-content: space-around;
-    
+.nav .ol .li {
+    display: flex;
+    flex-direction: column;
+    padding: 12px 16 px;
 }
-
