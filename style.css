@@ -1,15 +1,14 @@
 .body{
-    background-color: aqua;
-    margin:0px;
+    background-color: whitesmoke;
     padding: 0px;
-    font-size: medium;
-    font-size: 20;
-    font-weight: 500;
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
 }
-
-.h1{
-    color: blue;
-    font-family: 'Courier New', Courier, monospace;
+.nav .ol{
+    float: left;
+    display: block;
+    text-align: center;
+    justify-content: space-around;
+    
 }
-
 
